@@ -1,2 +1,1 @@
-# frontendlearning
-frontendlearning
+Classes and jobs information of Maplestory.
