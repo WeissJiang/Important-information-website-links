@@ -1,1 +1,1 @@
-Classes and jobs information of Maplestory.
+Some important information website links.
